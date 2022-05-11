@@ -3,6 +3,7 @@
 ## 🛠 Tech Stack
 - HTML
 - CSS
+- JAVASCRIPT
 - NODE.JS
 - EXPRESS
 - REACT
