@@ -1,13 +1,13 @@
-# Olá, eu sou o Thiago, uma pessoa apaixonada por programação desde cedo.
+## Olá, eu sou o Thiago
 
-## 🛠 Tech Stack
-- HTML
-- CSS
-- JAVASCRIPT
-- NODE.JS
-- EXPRESS
-- REACT
+Meu Foco atualmente é Javascript
+
+### 🛠 Tech Stack
+- Javascript
+- Node
 - C#
+- React
+- Express
 
 
 <!---
