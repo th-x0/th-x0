@@ -1,6 +1,6 @@
 ## Olá, eu sou o Thiago
 
-Meu Foco atualmente é Javascript mas estou disposto a aprender qualquer tecnologia :D
+Meu Foco atualmente é Javascript, mas estou disposto a aprender qualquer tecnologia :D.
 
 ### 🛠 Tech Stack
 - Javascript
